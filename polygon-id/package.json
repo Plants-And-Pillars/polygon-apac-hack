@@ -1,0 +1,23 @@
+{
+  "name": "polygon-id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@0xpolygonid/js-sdk": "^1.0.0-beta.9",
+    "@iden3/js-iden3-auth": "^1.0.0-beta.7",
+    "@iden3/js-jwz": "^1.0.0-beta.2",
+    "bip32": "^4.0.0",
+    "bip39": "^3.1.0",
+    "dotenv": "^16.1.3",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^6.4.1",
+    "express": "^4.18.2"
+  }
+}
